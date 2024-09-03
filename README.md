@@ -14,6 +14,7 @@
 
 19年的入门课程:太老了不建议看
 
+![19年的入门课程](https://github.com/ruijingpengyuyan/-21-Java-/blob/ruijingpengyuyan-image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-02%20141706.png)
 
 21年的入门课程:本人学的就是这套,内容相比22年的更少,以下路线就是这套视频的路线
 
