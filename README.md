@@ -14,17 +14,20 @@
 
 19年的入门课程:太老了不建议看
 
-![19年的入门课程](https://github.com/ruijingpengyuyan/-21-Java-/blob/ruijingpengyuyan-image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-02%20141706.png)
+![19年的入门课程](https://github.com/ruijingpengyuyan/-21-Java-/blob/main/19%E5%B9%B4.png)
 
 21年的入门课程:本人学的就是这套,内容相比22年的更少,以下路线就是这套视频的路线
 
+![](https://github.com/ruijingpengyuyan/-21-Java-/blob/main/21%E5%B9%B4.png)
 
 22年的入门课程:内容更多,习题和算法更多
 
-
+![](https://github.com/ruijingpengyuyan/-21-Java-/blob/main/22%E5%B9%B4%E4%B8%8A.png)
+![](https://github.com/ruijingpengyuyan/-21-Java-/blob/main/22%E5%B9%B4%E4%B8%8B.png)
 
 24年的入门课程:AI助力?但讲的还是Java基础.感兴趣的可以去看看
 
+![](https://github.com/ruijingpengyuyan/-21-Java-/blob/main/24%E5%B9%B4.png)
 
 
 就像评论说的:
